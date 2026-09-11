@@ -4,7 +4,7 @@
 
 This project is an Excel-based data analysis project focused on loan and credit data.
 
-The dataset was cleaned, organized and analyzed using Excel functions, sorting,flitering,styling, PivotTables and PivotCharts. The analysis was presented through an interactive dashboard to make the results easier to understand.
+The dataset was cleaned, organized and analyzed using Excel functions, sorting,filtering,styling, PivotTables and PivotCharts. The analysis was presented through an interactive dashboard to make the results easier to understand.
 
 ## Objectives
 
